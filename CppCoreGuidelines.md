@@ -15927,7 +15927,7 @@ To avoid interface errors.
 
 **See also**: [postcondition rule](#Ri-post)
 
-### <a name="Re-noexcept"></a>E.12: Use `noexcept` when exiting a function because of a `throw` is impossible or unacceptable
+### <a name="Re-noexcept"></a>E.12: Use `noexcept` when exiting a function because a `throw` is impossible or unacceptable
 
 ##### Reason
 
